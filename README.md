@@ -1,4 +1,1 @@
 ﻿# Trabajo Colaborativo Git
-git add .
-git commit -m "fix: corrijo detalle solicitado en revision"
-git push origin feature/corregir-texto
